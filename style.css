@@ -1,0 +1,34 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+background-color: rgb(53, 52, 52);
+height: 30px;
+color: white;
+}
+.btn1{background-color: rgb(65, 223, 65);
+color: white;
+
+border-radius: 13%;
+padding: 8px;
+padding-bottom:5px ;
+
+}
+.first-h3 span{color:rgb(65, 223, 65) ;}
+.nav2{background-color: rgb(44, 44, 44);
+color: white;
+}
+.nav2 h1{ font-size: 3em;
+font-weight: 300;
+color: aqua;}
+.nav2{display: flex;
+justify-content: space-around;}
+.a1{  text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 50px;
+    margin-left: ;
+
+color: white;}
